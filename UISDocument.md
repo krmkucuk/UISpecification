@@ -26,7 +26,10 @@ This prompt includes: <br />
 - "Display Name" Textbox <br />
 - "Phone" Textbox <br />
 - "Email" Textbox <br />
-- "User Roles" Dropdown List <br />
+- "User Roles" Dropdown List: <br />
+  - Guest
+  - Admin
+  - SuperAdmin
 - "Enabled" Checkbox
 
 
